@@ -1,4 +1,3 @@
-const Web3 = require('web3');
 const contractABI = []; // Add the ABI from the compiled contract
 const contractAddress = ''; // Add the deployed contract address
 
