@@ -1,4 +1,4 @@
-const contractABI = [EthTimer.json]; // Add the ABI from the compiled contract
+const contractABI = [EthTimerABI.json]; // Add the ABI from the compiled contract
 const contractAddress = '0xc4e0e75bEcFB3193916Dddc0Dee3970653F3f79B'; // Add the deployed contract address
 
 let web3;
